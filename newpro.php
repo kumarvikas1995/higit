@@ -7,6 +7,6 @@
     <title>welcome git</title>
 </head>
 <body>
-    <h1> welcome to git world</h1>
+    <h1> welcome to git world and learn fast</h1>
 </body>
 </html>
